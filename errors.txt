@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/easteregg.rpy", line 29: expected 'simple_expression' not found.
+    scene room with with dissolve
+                    ^
+
+Ren'Py Version: Ren'Py 8.2.2.24061201
+Fri Dec  6 13:11:48 2024

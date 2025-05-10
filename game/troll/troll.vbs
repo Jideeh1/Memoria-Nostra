@@ -1,0 +1,1 @@
+x=MsgBox("Error: Memoria Nostra has stopped responding.",0+16,"Computer")
