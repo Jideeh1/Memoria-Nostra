@@ -1,4 +1,4 @@
-netf# Memoria Nostra
+# Memoria Nostra
 ## Christmas Project
 * **Version**: 2025.5.10
 * **Status**: On Going
